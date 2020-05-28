@@ -1,3 +1,11 @@
+/*
+https://www.udemy.com/course/curso-flutter/learn/lecture/18129877#questions
+145. Desafio TextField Adaptativo - Resposta
+Criando arquivo adaptative_text_field.dart
+Aqui ele criou um "Controller" que eu não entendi direito
+
+*/
+
 import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
